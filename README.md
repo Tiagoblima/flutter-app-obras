@@ -1,4 +1,4 @@
-# Projeto Cidade Transparente
+# Portal Cidadão Conectado
 
 App para a visualização de obras públicas.
 
